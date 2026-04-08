@@ -153,8 +153,7 @@ export default function Home() {
       <div className="absolute top-10 left-10 z-10 text-white mix-blend-difference pointer-events-none">
         <h1 className="text-5xl font-black italic tracking-tighter uppercase leading-none">NOISYDAISIE</h1>
         <div className="flex gap-4 mt-2">
-          <p className="text-[10px] opacity-40 uppercase tracking-[0.2em]">Coded by Nara</p>
-          <p className="text-[10px] opacity-40 uppercase tracking-[0.2em]">Designed by Bubu</p>
+          <p className="text-[10px] opacity-40 uppercase tracking-[0.2em]">HAHA HIHI HAHA HIHI</p>
         </div>
       </div>
 
